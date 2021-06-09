@@ -12,8 +12,8 @@ designerFlowsOperationMode: disabled
 
 license:
   accept: true
-  license: L-APEH-BTHFYQ
-  use: CloudPakForIntegrationNonProduction
+  license: L-APEH-BV8AX3
+  use: AppConnectEnterpriseNonProduction
 
 image:
   repository: replace
