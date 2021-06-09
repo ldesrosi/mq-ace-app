@@ -34,7 +34,7 @@ router:
 service:
   endpointType: http
 
-useCommonServices: true
+useCommonServices: false
 
 version: 11.0.0.10-r3-eus
 
